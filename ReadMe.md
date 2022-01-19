@@ -31,7 +31,7 @@
 ### 📺 YOUTUBE VIDEOS
 
 <!-- YOUTUBE:START -->
-- [Recent Upload](https://youtu.be/NZASumkG6M8)
+- [Recent Upload](https://youtu.be/P0itaJunkqw)
 - [Bad USB hacks computer in 40 seconds || Raspberry Pi-Pico](https://youtu.be/NZASumkG6M8)
 - [CRACK ANDROID PASSWORD IN SECONDS](https://youtu.be/CtaQTDfTqxA)
 - [FIND ANYONE ON SOCIAL MEDIA](https://youtu.be/Ktiy6bl_B9I)
