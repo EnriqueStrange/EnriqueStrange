@@ -48,7 +48,6 @@
 <details>
   <summary>:zap:GitHub Stats</summary>
     <img align="left" alt="Strange's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EnriqueStrange"/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueStrange)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 
