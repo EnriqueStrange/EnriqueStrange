@@ -2,14 +2,6 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-<h2>
-<img align="right" alt="coding" width="150" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquestrange&label=Profile%20views&color=0e75b6&style=flat" alt="enriquestrange" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquestrange" alt="enriquestrange" /></a> </p>
-</h2>
-
-
 - 🔭 I’m currently working on **Artificial Intelligence**
 
 - 🌱 I’m currently learning **ML & AI**
@@ -21,6 +13,13 @@
 - 📫 How to reach me **kushwaha.priyanshu.imp@gmail.com**
 
 - ⚡ Fun fact **I think I am noob**
+
+<img align="right" alt="coding" width="150" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquestrange&label=Profile%20views&color=0e75b6&style=flat" alt="enriquestrange" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquestrange" alt="enriquestrange" /></a> </p>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
