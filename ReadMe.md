@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Strange (Kushwaha)</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="150" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 - 🔭 I’m currently working on **Artificial Intelligence**
 
