@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Strange (Kushwaha)</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Founder @Codestam Technologies</h3>
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🔭 I’m currently working on **Automation**
 
-- 🌱 I’m currently learning **ML & AI**
+- 🌱 I’m currently learning **Automation**
 
-- 👯 I’m looking to collaborate on **Artificial Intellegence**
+- 👯 I’m looking to collaborate on **All Tech Projects**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **kushwaha.priyanshu.imp@gmail.com**
+- 📫 How to reach me **kushwaha@codestam.com**
 
 - ⚡ Fun fact **I think I am noob**
 
