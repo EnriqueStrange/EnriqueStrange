@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **All Tech Projects**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python** and **NextJS**
 
 - 📫 How to reach me **kushwaha@codestam.com**
 
